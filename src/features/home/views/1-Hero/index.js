@@ -1,4 +1,3 @@
-"use client";
 import React, { useEffect, useState } from "react";
 import { Link as Link1 } from "react-scroll";
 import { TypeAnimation } from "react-type-animation";

@@ -1,4 +1,3 @@
-"use client";
 import React, { useEffect } from "react";
 import styles from "./styles.module.css";
 import { useTranslation } from "react-i18next";
