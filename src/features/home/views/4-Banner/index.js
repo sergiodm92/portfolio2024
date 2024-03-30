@@ -5,7 +5,7 @@ import { useTranslation } from "react-i18next";
 export const Banner = () => {
   const { t } = useTranslation();
   return (
-    <section className="py-20 w-full table relative bg-[url('/images/bg/bg2.jpg')] bg-no-repeat bg-center bg-cover">
+    <section className="py-20 w-full table relative">
       <div className="absolute inset-0 bg-slate-900/70"></div>
       <div className="container relative">
         <div className="grid grid-cols-1 text-center">
