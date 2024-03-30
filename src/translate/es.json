@@ -1,0 +1,94 @@
+{
+  "home": "Inicio",
+  "hi": "Hola! soy...",
+  "about_me": "Sobre mi",
+  "experience": "Experiencia",
+  "projects": "Proyectos",
+  "contact": "Contacto",
+  "services": "Servicios",
+  "blog": "Blog",
+  "work_experience": "Experiencias de trabajo",
+  "about_title": "Soy un desarrollador apasionado",
+  "technologies": "Tecnologías",
+  "web_developer": "Dev Web",
+  "download_cv": "Descargar CV",
+  "hero_subtitle": "Me gusta crear productos sólidos y escalables, con una gran experiencia de usuario.",
+  "hire_me": "Contrátame",
+  "years_experience": "2+ Años de Experiencia",
+  "projects_completed": "Proyectos Completados",
+  "see_work": "Ver mis trabajos",
+  "about_paraph": "Tengo experiencia en la creación de proyectos de forma independiente, desde el diseño inicial hasta la implementación final. Además, tengo experiencia colaborando en equipos multidisciplinarios mediante el uso de metodologías ágiles, desempeñando roles tanto en el desarrollo frontend como en el backend. También tuve la oportunidad de liderar un equipo en un proyecto frontend, donde mi función principal consistía en guiar y apoyar a los miembros del equipo, así como revisar el código.",
+  "about_paraph2": "Me capacito de manera constante, aprendiendo acerca de nuevas tecnologías y metodologías que me permitan crear código más limpio y escalable.",
+  "tech_title": "Tecnologías y habilidades",
+  "tech_paraph": "Me mantengo constantemente actualizado con las últimas tecnologías y actualizaciones.",
+  "works_and_projects": "Proyectos",
+  "works_and_projects_description": "Algunos de mis Proyectos desarrollados de manera freelance para diferentes empresas, algunos privados otros públicos.",
+  "contact_me": "Contáctame",
+  "contact_me_description": "Puedes enviarme un mensaje a mi correo electrónico por aquí o escribirme a travez de mis redes sociales.",
+  "Freelance": {
+    "title": "Servicios Freelance",
+    "description": "¡Hola! Soy un desarrollador Full Stack Freelance apasionado por la creación de soluciones digitales. Ofrezco servicios flexibles y personalizados para satisfacer tus necesidades de desarrollo web y más allá. Desde el desarrollo de aplicaciones web hasta la seguridad en línea, estoy aquí para ayudarte a alcanzar tus objetivos digitales de manera eficiente y profesional.",
+    "button": "Escríbeme"
+  },
+  "Services": {
+    "title": "Servicios Profesionales",
+    "subtitle": "Descubre cómo puedo ayudarte a alcanzar tus metas digitales"
+  },
+  "ServiceOne": {
+    "title": "Desarrollo de Aplicaciones Web",
+    "description": "Como desarrollador full stack, me especializo en crear aplicaciones web dinámicas y fáciles de usar, diseñadas para satisfacer tus necesidades específicas. Desde el concepto hasta la implementación, garantizo funcionalidad impecable y experiencias de usuario atractivas."
+  },
+  "ServiceTwo": {
+    "title": "Creación de Aplicaciones Responsivas",
+    "description": "Desarrollo aplicaciones responsivas que se adaptan perfectamente a diferentes dispositivos y tamaños de pantalla. Mi enfoque se centra en ofrecer un rendimiento consistente y accesibilidad, asegurando que tu aplicación llegue de manera efectiva a tu audiencia."
+  },
+  "ServiceThree": {
+    "title": "Seguridad Web",
+    "description": "Proteger tus activos en línea es primordial. Ofrezco soluciones de seguridad web integrales para proteger tus datos, aplicaciones y usuarios contra posibles amenazas y vulnerabilidades."
+  },
+  "ServiceFour": {
+    "title": "Soluciones e-commerce",
+    "description": "Potencia tu negocio en línea con mis soluciones e-commerce personalizadas. Desde experiencias de compra intuitivas hasta pasarelas de pago seguras, capacito a las empresas para prosperar en el mercado digital."
+  },
+  "ServiceFive": {
+    "title": "Analisis de sistemas",
+    "description": "Ofrezco experiencia en analizar, diseñar e implementar sistemas informáticos eficientes adaptados a los requisitos de tu negocio. Garantizo un rendimiento óptimo y escalabilidad para impulsar tu negocio hacia adelante."
+  },
+  "ServiceSix": {
+    "title": "Servicios de backend",
+    "description": "Mis servicios de backend son el soporte de tus aplicaciones, brindando funcionalidad sólida e integración perfecta. Me especializo en desarrollar soluciones de backend escalables y confiables para satisfacer las necesidades de tu negocio."
+  },
+  "Experiences": {
+    "title": "Experiencia laboral",
+    "subtitle": "Descubre mi trayectoria profesional",
+    "freelance": "Desarrollé diversos proyectos de forma independiente, como páginas de destino, software de gestión empresarial y tarjetas de invitación para bodas y cumpleaños.",
+    "bussinesShop": "Trabajé en varios proyectos dentro del entorno de Bussines Shop, creando servicios de backend, colaborando en el panel de administración y desarrollando diversas páginas de presentación para productos digitales y servicios.",
+    "branak": "Colaboré en el desarrollo y solución de problemas de una plataforma para la enseñanza de inglés conocida como Branak.",
+    "globalLogic": "Me desempeñé en labores de mantenimiento para diversos clientes, resolviendo problemas tanto en el backend como en el frontend."
+},
+"Message": "Mensaje",
+"Name": "Nombre",
+"Email": "Email",
+"Subject":"Asunto",
+"SendMessage": "Enviar",
+"Phone": "Teléfono",
+"Location": "Localización",
+"don-alberto-description":"Es una Aplicación web que permite gestionar la compra de ganado vacuno y de cerdos, su faeneado y la venta de carne y achuras. Puede guardar vendedores, frigorificos, clientes; permite ver saldos pendientes, tanto de clientes como de vendedores; ver stock disponible y un balance mensual de ganancias.",
+"norte-gestion-description":"Es una Aplicación web que ofrece una solución integral para la gestión eficiente de servicios funerarios. Permite administrar la adquisición de ataúdes y otros productos relacionados, simplificando el proceso de compra. Además, facilita la creación de solicitudes de siniestro para cada servicio prestado, incluyendo información detallada como placas y datos relevantes. La aplicación ofrece la capacidad de enviar estas solicitudes para su verificación, asegurándose de que estén correctas antes de la entrega al cementerio correspondiente. Asimismo, proporciona una visión en tiempo real del stock disponible en cada sucursal, permitiendo un control preciso de los recursos.",
+"invitation-description":"Invitaciones digitales para todo tipo de eventos. Se pueden enviar por whatsapp y son personalizadas. Permiten confirmar asistencia, colocar una fecha limite para confirmar, ver quienes confirmaron y quienes no, y descargar el pdf de la lista de invitados confirmados.",
+"business-shop-description":"Página web de presentación de BusinessShop, una empresa que brinda un sistema de pagos a traves de criptoactivos, con su propia blockchain.",
+"business-shop-admin-panel-description": "Plataforma de administración privada, para el manejo del ecosistema BusinessShop.",
+"crypto-risk-landing-description": "Pagina de presentación de Crypto Risk una plataforma Defi de inversión en crypto activos. ",
+"crypto-risk-dapp-description": "Plataforma Defi, el usuario debe loguearse con su wallet y puede acceder a los diferentes planes que brinda la plataforma y llevar un control de sus rendimientos.",
+"crypto-risk-admin-panel-description": "Panel de administración privado, orientado para los Admins de crypto risk y el control de su plataforma.",
+"bspay-description": "Pagina web de presentación de BsPay, aplicación que facilita al usuario compra y venta de activos digitales, incluidos los activos que pertenecen al ecosistema BSP.",
+"bspbroker-description": "Pagina web de presentación de BsBroker, broker en el cual el usuario puede hacer trading en activos digitales, forex, indices, materias primas, futuros, entre otros.",
+"monbasa-description": "Página web de presentación de MonBasa, una cantera mexicana líder en trituración y transporte de piedra.",
+"blackfrida-description":"Página web de presentación de Blackfrida, una empresa ignovadora de diseño en la ciudad de Mexico.",
+"weather-app-description": "Aplicaión realizada con fines educativos que muestra el cliima de diferentes paises y ciudades utilizando una API externa",
+"the-cat-description": "Aplicaión realizada con fines educativos que utiliza una API externa y renderiza cards de gatos",
+"chat-app-description": "Aplicaión realizada con fines educativos, sobre un chat en vivo para utilizar la tecnologia de web socket",
+"to-do-list-description": "Aplicación realizada con fines educativos, que permite al usuario crearse una cuenta y añadir tareas a una lista de tareas, ademas puede editarlas, marcarlas como terminadas y eliminarlas",
+"movie-app-description": "Aplicaión realizada con fines educativos que utiliza una API externa y renderiza cards de películas"
+
+}

@@ -1,0 +1,95 @@
+{
+  "home": "Home",
+  "hi": "Hey! I am",
+  "about_me": "About me",
+  "experience": "Experience",
+  "projects": "Projects",
+  "services": "Services",
+  "contact": "Contact",
+  "blog": "Blog",
+  "work_experience": "Work Experience",
+  "about_title": "I am a Passionate Developer",
+  "technologies": "Technologies",
+  "web_developer": "Web Developer",
+  "download_cv": "Download CV",
+  "hero_subtitle": "I like to craft a solid and scalable products, with great user experience.",
+  "hire_me": "Hire me",
+  "years_experience": "2+ Years Experience",
+  "projects_completed": "Project Completed",
+  "see_work": "See Work",
+  "about_paraph": "I have experience in independently developing projects from initial design to final implementation. Additionally, I have expertise in collaborating within multidisciplinary teams using agile methodologies, taking on roles in both frontend and backend development. I also had the opportunity to lead a team in a frontend project, where my main role involved guiding and supporting team members, as well as reviewing code.",
+  "about_paraph2": "I am constantly training, learning about new technologies and methodologies that allow me to create cleaner and more scalable code.",
+  "tech_title": "Technologies & Skills",
+  "tech_paraph": "I constantly stay up to date with the latest technologies and updates.",
+  "works_and_projects": "Works and projects",
+  "works_and_projects_description": "Some of my projects developed freelance for different companies, some private others public.",
+  "contact_me": "Contact me",
+  "contact_me_description": "You can send me a message to my email here or write to me through my social media.",
+  "Freelance": {
+    "title": "Freelance Services",
+    "description": "Hello! I'm a passionate Freelance Full Stack Developer dedicated to crafting digital solutions. I offer flexible and customized services to meet your web development needs and beyond. From web application development to online security, I'm here to help you achieve your digital goals efficiently and professionally.",
+    "button": "Contact me"
+  },
+  "Services": {
+    "title": "Professional Services",
+    "subtitle": "Discover How I Can Help You Achieve Your Digital Goals"
+  },
+  "ServiceOne": {
+    "title": "Web Apps Development",
+    "description": "As a full stack developer, I specialize in crafting dynamic and user-friendly web applications tailored to meet your specific needs. From concept to deployment, I ensure seamless functionality and engaging user experiences."
+  },
+  "ServiceTwo": {
+    "title": "Create Responsive Apps",
+    "description": "I develop responsive applications that adapt seamlessly across various devices and screen sizes. My focus is on delivering consistent performance and accessibility, ensuring your app reaches your audience effectively."
+  },
+  "ServiceThree": {
+    "title": "Web Security",
+    "description": "Protecting online assets is paramount. I offer comprehensive web security solutions to safeguard your data, applications, and users against potential threats and vulnerabilities."
+  },
+  "ServiceFour": {
+    "title": "E-Commerce Solutions",
+    "description": "Elevate your online business with my tailored e-commerce solutions. From intuitive shopping experiences to secure payment gateways, I empower businesses to thrive in the digital marketplace."
+  },
+  "ServiceFive": {
+    "title": "System Analyst",
+    "description": "I offer expertise in analyzing, designing, and implementing efficient IT systems tailored to your business requirements. I ensure optimal performance and scalability to drive your business forward."
+  },
+  "ServiceSix": {
+    "title": "Backend Services ",
+    "description": "My backend services form the backbone of your applications, providing robust functionality and seamless integration. I specialize in developing scalable and reliable backend solutions to support your business needs."
+  },
+  "Experiences": {
+    "title": "Work Experience",
+    "subtitle": "Explore My Professional Journey",
+    "freelance": "I developed various projects independently, such as landing pages, business management software, and invitation cards for weddings and birthdays.",
+    "bussinesShop": "I worked on various projects within the Bussines Shop ecosystem, creating backend services, collaborating on the administration panel, and developing various presentation pages for digital products and services.",
+    "branak": "I collaborated on troubleshooting and development for an English teaching platform known as Branak.",
+    "globalLogic": "I worked on maintenance tasks for various clients, solving issues in both backend and frontend systems."
+},
+
+"Message": "Message",
+"Name": "Name",
+"Email": "Email",
+"Subject":"Subject",
+"SendMessage": "Send",
+"Send": "Send",
+"Phone": "Phone",
+"Location": "Location",
+"don-alberto-description": "It's a web application that allows managing the purchase of cattle and pigs, their slaughter, and the sale of meat and offal. It can save sellers, slaughterhouses, customers; allows viewing pending balances, both from customers and sellers; view available stock and a monthly profit balance.",
+"norte-gestion-description": "It's a web application that offers a comprehensive solution for efficient management of funeral services. It allows managing the acquisition of coffins and other related products, simplifying the purchasing process. Additionally, it facilitates the creation of claims for each provided service, including detailed information such as plates and relevant data. The application offers the ability to send these requests for verification, ensuring they are correct before delivery to the corresponding cemetery. Also, it provides a real-time view of available stock at each branch, allowing precise control of resources.",
+"invitation-description": "Digital invitations for all kinds of events. They can be sent via WhatsApp and are personalized. They allow confirming attendance, setting a deadline for confirmation, seeing who confirmed and who didn't, and downloading the PDF of the list of confirmed guests.",
+"business-shop-description": "Website introducing BusinessShop, a company that provides a payment system through crypto assets, with its own blockchain.",
+"business-shop-admin-panel-description": "Private administration platform for managing the BusinessShop ecosystem.",
+"crypto-risk-landing-description": "Introduction page for Crypto Risk, a DeFi platform for investing in crypto assets.",
+"crypto-risk-dapp-description": "DeFi platform where users log in with their wallet and can access various plans offered by the platform and track their returns.",
+"crypto-risk-admin-panel-description": "Private administration panel tailored for Crypto Risk admins to control their platform.",
+"bspay-description": "BsPay presentation website, an application that facilitates the user to buy and sell digital assets, including assets belonging to the BSP ecosystem.",
+"bspbroker-description": "BsBroker presentation website, a broker where the user can trade in digital assets, forex, indices, commodities, futures, among others.",
+"monbasa-description": "MonBasa presentation website, a leading Mexican quarry in stone crushing and transportation.",
+"blackfrida-description": "Blackfrida presentation website, an innovative design company in Mexico City.",
+"weather-app-description": "Application made for educational purposes that displays the weather of different countries and cities using an external API",
+"the-cat-description": "Application made for educational purposes that utilizes an external API and renders cat cards",
+"chat-app-description": "Application made for educational purposes, for a live chat using WebSocket technology",
+"to-do-list-description": "An application made for educational purposes, which allows the user to create an account and add tasks to a to-do list. Additionally, they can edit them, mark them as completed, and delete them.",
+"movie-app-description": "Application made for educational purposes that utilizes an external API and renders movie cards"
+}

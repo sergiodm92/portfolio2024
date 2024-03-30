@@ -1,0 +1,104 @@
+.modalContainer {
+    position: fixed;
+    width: 100%;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    z-index: 100;
+    background-color: rgba(0,0,0,0.8);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.modal {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin: 2%;
+    height: auto;
+    background-color: #0f172a;
+    border: 1px solid #FFA80F;
+    border-radius: 20px;
+    padding: 4%;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+}
+.modal h2{
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
+}
+
+.modal span{
+    font-weight: 100;
+}
+
+.close {
+    width: 2rem;
+    height: 2rem;
+    border: 1px solid #FFA80F;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    cursor: pointer;
+}
+
+.close::before,
+.close::after {
+    content: '';
+    background-color: white;
+    width: 1rem; /* Ajusta el ancho de la línea */
+    height: 2px; /* Ajusta el grosor de la línea */
+    position: absolute;
+    top: 50%;
+    left: 0.45rem;
+    transition: transform 0.3s ease; /* Agrega una transición suave */
+}
+
+.close::before {
+    transform: translate(0, -50%) rotate(0deg); /* Inicialmente horizontal */
+}
+
+.close::after {
+    transform: translate(0, -50%) rotate(0deg); /* Inicialmente horizontal */
+}
+
+.close:hover::before {
+    transform: translate(0, -50%) rotate(-45deg); /* Al hacer hover, giran */
+}
+
+.close:hover::after {
+    transform: translate(0, -50%) rotate(45deg); /* Al hacer hover, giran */
+}
+
+.skills{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    height: auto;
+    gap: 20px;
+    padding-top: 2rem;
+}
+.cardskill{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    row-gap: 10px;
+    color: white;
+    text-align: center;
+}
+
+@media (min-width: 1024px) {
+    .modal {
+        width: 50rem;
+    }
+}
+

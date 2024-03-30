@@ -1,0 +1,28 @@
+
+
+
+
+.container {
+    padding: 5rem 1rem 5rem 1rem;
+  }
+  .titleContainer {
+    padding: 0rem 0rem 2rem 0rem;
+  }
+  .titleContainer span {
+    margin-bottom: 1rem;
+  }
+
+
+
+  @media (min-width: 1080px) {
+    .container {
+      padding: 10rem 2rem 10rem 12rem;
+    }
+    .titleContainer {
+      padding: 0rem 0rem 8rem 0rem;
+    }
+    .titleContainer span {
+      margin-bottom: 2rem;
+    }
+  }
+  
